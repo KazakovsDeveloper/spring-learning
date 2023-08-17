@@ -1,8 +1,8 @@
-/home/maxim/viktoria/MTS/spring_otus_vika/book-service/src/test/java/ru/otus/book/service/dao/BookDaoTest.java
-/home/maxim/viktoria/MTS/spring_otus_vika/book-service/src/test/java/ru/otus/book/service/controller/CommentControllerTest.java
-/home/maxim/viktoria/MTS/spring_otus_vika/book-service/src/test/java/ru/otus/book/service/dao/AuthorDaoTest.java
-/home/maxim/viktoria/MTS/spring_otus_vika/book-service/src/test/java/ru/otus/book/service/controller/AuthorControllerTest.java
-/home/maxim/viktoria/MTS/spring_otus_vika/book-service/src/test/java/ru/otus/book/service/dao/GenreDaoTest.java
-/home/maxim/viktoria/MTS/spring_otus_vika/book-service/src/test/java/ru/otus/book/service/controller/BookControllerTest.java
-/home/maxim/viktoria/MTS/spring_otus_vika/book-service/src/test/java/ru/otus/book/service/controller/GenreControllerTest.java
-/home/maxim/viktoria/MTS/spring_otus_vika/book-service/src/test/java/ru/otus/book/service/dao/CommentDaoTest.java
+/home/maxim/viktoria/MTS/spring-learning/book-service/src/test/java/ru/otus/book/service/dao/AuthorDaoTest.java
+/home/maxim/viktoria/MTS/spring-learning/book-service/src/test/java/ru/otus/book/service/dao/BookDaoTest.java
+/home/maxim/viktoria/MTS/spring-learning/book-service/src/test/java/ru/otus/book/service/controller/GenreControllerTest.java
+/home/maxim/viktoria/MTS/spring-learning/book-service/src/test/java/ru/otus/book/service/dao/CommentDaoTest.java
+/home/maxim/viktoria/MTS/spring-learning/book-service/src/test/java/ru/otus/book/service/controller/BookControllerTest.java
+/home/maxim/viktoria/MTS/spring-learning/book-service/src/test/java/ru/otus/book/service/dao/GenreDaoTest.java
+/home/maxim/viktoria/MTS/spring-learning/book-service/src/test/java/ru/otus/book/service/controller/AuthorControllerTest.java
+/home/maxim/viktoria/MTS/spring-learning/book-service/src/test/java/ru/otus/book/service/controller/CommentControllerTest.java
