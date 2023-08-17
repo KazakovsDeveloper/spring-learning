@@ -3,7 +3,17 @@
   <component name="KotlinMultiplatform">
     <allAvailableExecutables />
   </component>
-  <component name="ProjectRootManager">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-config/spring-01/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-config/spring-02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-config/spring-03-spring-boot/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-config/spring-05-adv-conf/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="liberica-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="ProjectType">

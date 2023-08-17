@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="application-events-demo" />
+        <module name="spring-03-spring-boot" />
+        <module name="test-configuration-exercise-2" />
+        <module name="test-configuration-exercise-1" />
+        <module name="test-configuration-solution-1" />
+        <module name="spring-01-exercise" />
+        <module name="test-configuration-solution-3" />
+        <module name="test-configuration-solution-2" />
+        <module name="spring-01-solution" />
+        <module name="beans-lifecycle-exercise" />
+        <module name="conditional-and-profiles-exercise" />
+        <module name="test-configuration-exercise-3" />
+        <module name="beans-scopes-exercise" />
+        <module name="spring-02-solution" />
+        <module name="spring-02-exercise" />
+        <module name="beans-scopes-solution" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="advanced-config-class-work" target="1.5" />
+      <module name="application-events-demo" target="11" />
+      <module name="beans-lifecycle-exercise" target="11" />
+      <module name="beans-scopes-exercise" target="11" />
+      <module name="beans-scopes-solution" target="11" />
+      <module name="conditional-and-profiles-exercise" target="11" />
+      <module name="spring-01" target="1.5" />
+      <module name="spring-01-exercise" target="11" />
+      <module name="spring-01-solution" target="11" />
+      <module name="spring-02" target="1.5" />
+      <module name="spring-02-exercise" target="11" />
+      <module name="spring-02-solution" target="11" />
+      <module name="spring-03-spring-boot" target="11" />
+      <module name="test-configuration-exercise-1" target="11" />
+      <module name="test-configuration-exercise-2" target="11" />
+      <module name="test-configuration-exercise-3" target="11" />
+      <module name="test-configuration-solution-1" target="11" />
+      <module name="test-configuration-solution-2" target="11" />
+      <module name="test-configuration-solution-3" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="application-events-demo" options="-parameters" />
+      <module name="beans-lifecycle-exercise" options="-parameters" />
+      <module name="beans-scopes-exercise" options="-parameters" />
+      <module name="beans-scopes-solution" options="-parameters" />
+      <module name="conditional-and-profiles-exercise" options="-parameters" />
+      <module name="spring-03-spring-boot" options="-parameters" />
+      <module name="test-configuration-exercise-1" options="-parameters" />
+      <module name="test-configuration-exercise-2" options="-parameters" />
+      <module name="test-configuration-exercise-3" options="-parameters" />
+      <module name="test-configuration-solution-1" options="-parameters" />
+      <module name="test-configuration-solution-2" options="-parameters" />
+      <module name="test-configuration-solution-3" options="-parameters" />
+    </option>
+  </component>
+</project>

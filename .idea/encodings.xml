@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-config/spring-01/spring-01-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-01/spring-01-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-01/spring-01-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-01/spring-01-solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-02/spring-02-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-02/spring-02-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-02/spring-02-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-02/spring-02-solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-03-spring-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-03-spring-boot/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/application-events-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/application-events-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-lifecycle-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-lifecycle-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-scopes-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-scopes-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-scopes-solution/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-scopes-solution/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/conditional-and-profiles-exercise/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/conditional-and-profiles-exercise/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-2/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-3/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

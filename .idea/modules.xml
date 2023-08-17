@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/application-events-demo/application-events-demo.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/application-events-demo/application-events-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-lifecycle-exercise/beans-lifecycle-exercise.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-lifecycle-exercise/beans-lifecycle-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-scopes-exercise/beans-scopes-exercise.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-scopes-exercise/beans-scopes-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-scopes-solution/beans-scopes-solution.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/beans-scopes-solution/beans-scopes-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/conditional-and-profiles-exercise/conditional-and-profiles-exercise.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/conditional-and-profiles-exercise/conditional-and-profiles-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-01/spring-01.iml" filepath="$PROJECT_DIR$/spring-config/spring-01/spring-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-01/spring-01-exercise/spring-01-exercise.iml" filepath="$PROJECT_DIR$/spring-config/spring-01/spring-01-exercise/spring-01-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-01/spring-01-solution/spring-01-solution.iml" filepath="$PROJECT_DIR$/spring-config/spring-01/spring-01-solution/spring-01-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-02/spring-02.iml" filepath="$PROJECT_DIR$/spring-config/spring-02/spring-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-02/spring-02-exercise/spring-02-exercise.iml" filepath="$PROJECT_DIR$/spring-config/spring-02/spring-02-exercise/spring-02-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-02/spring-02-solution/spring-02-solution.iml" filepath="$PROJECT_DIR$/spring-config/spring-02/spring-02-solution/spring-02-solution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-03-spring-boot/spring-03-spring-boot.iml" filepath="$PROJECT_DIR$/spring-config/spring-03-spring-boot/spring-03-spring-boot.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-learning.iml" filepath="$PROJECT_DIR$/.idea/spring-learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-1/test-configuration-exercise-1.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-1/test-configuration-exercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-2/test-configuration-exercise-2.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-2/test-configuration-exercise-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-3/test-configuration-exercise-3.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-exercise-3/test-configuration-exercise-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-1/test-configuration-solution-1.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-1/test-configuration-solution-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-2/test-configuration-solution-2.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-2/test-configuration-solution-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-3/test-configuration-solution-3.iml" filepath="$PROJECT_DIR$/spring-config/spring-05-adv-conf/test-configuration-solution-3/test-configuration-solution-3.iml" />
     </modules>
   </component>
 </project>
