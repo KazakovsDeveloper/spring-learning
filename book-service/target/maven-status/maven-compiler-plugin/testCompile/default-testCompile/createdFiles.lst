@@ -1,0 +1,8 @@
+ru/otus/book/service/dao/CommentDaoTest.class
+ru/otus/book/service/controller/AuthorControllerTest.class
+ru/otus/book/service/dao/AuthorDaoTest.class
+ru/otus/book/service/controller/GenreControllerTest.class
+ru/otus/book/service/controller/BookControllerTest.class
+ru/otus/book/service/dao/GenreDaoTest.class
+ru/otus/book/service/controller/CommentControllerTest.class
+ru/otus/book/service/dao/BookDaoTest.class

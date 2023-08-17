@@ -1,0 +1,1 @@
+insert into books (`title`, author_id, genre_id) values ('Test', 1, 1);

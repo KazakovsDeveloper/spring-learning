@@ -1,0 +1,24 @@
+databaseChangeLog:
+  - changeSet:
+      id: 2023-07-26--0001-book
+      author: vskazakova
+      createTable:
+        tableName: books
+        columns:
+          - column:
+              name: id
+              type: bigint
+              autoIncrement: true
+              constraints:
+                nullable: false
+                primaryKey: true
+                primaryKeyName: pk_book
+          - column:
+              name: title
+              type: varchar(100)
+          - column:
+              name: author_id
+              type: bigint
+          - column:
+              name: genre_id
+              type: bigint
