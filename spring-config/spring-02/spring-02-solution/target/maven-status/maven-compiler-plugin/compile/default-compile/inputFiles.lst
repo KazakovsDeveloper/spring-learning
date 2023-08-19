@@ -1,0 +1,8 @@
+/home/maxim/viktoria/MTS/spring-learning/spring-config/spring-02/spring-02-solution/src/main/java/ru/otus/spring/domain/Person.java
+/home/maxim/viktoria/MTS/spring-learning/spring-config/spring-02/spring-02-solution/src/main/java/ru/otus/spring/dao/PersonDao.java
+/home/maxim/viktoria/MTS/spring-learning/spring-config/spring-02/spring-02-solution/src/main/java/ru/otus/spring/Main.java
+/home/maxim/viktoria/MTS/spring-learning/spring-config/spring-02/spring-02-solution/src/main/java/ru/otus/spring/service/PersonService.java
+/home/maxim/viktoria/MTS/spring-learning/spring-config/spring-02/spring-02-solution/src/main/java/ru/otus/spring/service/PersonServiceImpl.java
+/home/maxim/viktoria/MTS/spring-learning/spring-config/spring-02/spring-02-solution/src/main/java/ru/otus/spring/dao/PersonDaoSimple.java
+/home/maxim/viktoria/MTS/spring-learning/spring-config/spring-02/spring-02-solution/src/main/java/ru/otus/spring/config/DaoConfig.java
+/home/maxim/viktoria/MTS/spring-learning/spring-config/spring-02/spring-02-solution/src/main/java/ru/otus/spring/config/ServicesConfig.java
