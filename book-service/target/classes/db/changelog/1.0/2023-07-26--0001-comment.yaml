@@ -1,0 +1,21 @@
+databaseChangeLog:
+  - changeSet:
+      id: 2023-07-26--0001-comment
+      author: vskazakova
+      createTable:
+        tableName: comments
+        columns:
+          - column:
+              name: id
+              type: bigint
+              autoIncrement: true
+              constraints:
+                nullable: false
+                primaryKey: true
+                primaryKeyName: pk_comment
+          - column:
+              name: comment
+              type: varchar(2000)
+          - column:
+              name: book_id
+              type: bigint

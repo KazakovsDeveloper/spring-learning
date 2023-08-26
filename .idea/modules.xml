@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/book-service/book-service.iml" filepath="$PROJECT_DIR$/book-service/book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-23/spring-framework-23-auth.iml" filepath="$PROJECT_DIR$/spring-23/spring-framework-23-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-24/spring-framework-24-security-authorization.iml" filepath="$PROJECT_DIR$/spring-24/spring-framework-24-security-authorization.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-learning.iml" filepath="$PROJECT_DIR$/.idea/spring-learning.iml" />
     </modules>
   </component>
