@@ -3,6 +3,22 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aop-ltw" />
+        <module name="aop-native" />
+        <module name="aop-ctw" />
+        <module name="aop-ctw-plain" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aop-ctw" target="11" />
+      <module name="aop-ctw-plain" target="11" />
+      <module name="aop-demo" target="1.5" />
+      <module name="aop-ltw" target="11" />
+      <module name="aop-native" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

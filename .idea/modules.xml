@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-04-aop/aop-demo/aop-ctw/aop-ctw.iml" filepath="$PROJECT_DIR$/spring-04-aop/aop-demo/aop-ctw/aop-ctw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-04-aop/aop-demo/aop-ctw-plain/aop-ctw-plain.iml" filepath="$PROJECT_DIR$/spring-04-aop/aop-demo/aop-ctw-plain/aop-ctw-plain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-04-aop/aop-demo/aop-demo.iml" filepath="$PROJECT_DIR$/spring-04-aop/aop-demo/aop-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-04-aop/aop-demo/aop-ltw/aop-ltw.iml" filepath="$PROJECT_DIR$/spring-04-aop/aop-demo/aop-ltw/aop-ltw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-04-aop/aop-demo/aop-native/aop-native.iml" filepath="$PROJECT_DIR$/spring-04-aop/aop-demo/aop-native/aop-native.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-learning.iml" filepath="$PROJECT_DIR$/.idea/spring-learning.iml" />
     </modules>
   </component>
